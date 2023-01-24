@@ -2,11 +2,11 @@
 Commandline and web app for interacting with OpenAI using OpenAI api
 
 
->Get API key from OpenAI and place it in davinci.sh file
->Install the prerequisites.txt
-> chmod +x start
+--> Get API key from OpenAI and place it in davinci.sh file
+-->Install the prerequisites.txt
+--> chmod +x start
   ./start
->Then go to localhost:3000 in browser to access the chat window
+-->Then go to localhost:3000 in browser to access the chat window
 
 
 **The commandline app consists only of (cmdline) and (davinci.sh) and are sufficient. To run do :**
