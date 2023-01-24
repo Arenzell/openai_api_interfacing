@@ -1,0 +1,9 @@
+#!/bin/bash
+
+chmod +x davinci.sh
+chmod +x cmdline
+
+cd Web/Server
+npm install
+node index
+

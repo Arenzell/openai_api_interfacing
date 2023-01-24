@@ -1,0 +1,17 @@
+#!/bin/bash
+
+while true; do
+    read  -e   -p "> " something
+            
+
+
+    if [[ $something == "" ]]; then
+
+	echo ""
+	./davinci.sh "Bye"
+	break
+    fi
+
+    ./davinci.sh $something
+done
+

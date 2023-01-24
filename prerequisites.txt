@@ -1,0 +1,9 @@
+
+bash
+curl
+jq
+
+nodejs
+npm
+
+chromium
