@@ -5,7 +5,7 @@ Commandline and web app for interacting with OpenAI using OpenAI api
 --> Get API key from OpenAI and place it in davinci.sh file
 -->Install the prerequisites.txt
 --> chmod +x start
-  ./start
+--> ./start
 -->Then go to localhost:3000 in browser to access the chat window
 
 
