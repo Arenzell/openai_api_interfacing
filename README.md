@@ -18,8 +18,8 @@ Commandline and web app for interacting with OpenAI using OpenAI api
 
 **The commandline app consists only of (cmdline) and (davinci.sh) and are sufficient. To run do :**
 
-chmod +x cmdline
-chmod +x davinci.sh
+chmod +x cmdline ;
+chmod +x davinci.sh ;
 ./cmdline
 
 
