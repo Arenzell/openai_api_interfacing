@@ -25,7 +25,7 @@ io.on('connection', (socket) => {
 	console.log(data);
 	data=data.replaceAll("\\","\\\\");
 	data=data.replaceAll("\"","\\\"");
-	data=data.replaceAll("\'","\\\'");
+	data=data.replaceAll("'","\'");
 	exec('../../davinci.sh'+' '+ JSON.stringify(data), (err, stdout, stderr) => {
 	    if (err) {
 		console.error(err);
