@@ -22,7 +22,7 @@ chmod +x cmdline ;
 chmod +x davinci.sh ;
 ./cmdline
 
-#(Image Screenshot)#
+# (Image Screenshot) #
 ![image](https://user-images.githubusercontent.com/70572289/214599438-7d1070bc-b416-4fb8-a34a-11b5aaa4511e.png)
 
 
