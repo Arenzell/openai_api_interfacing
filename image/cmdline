@@ -1,0 +1,17 @@
+#!/bin/bash
+
+
+while true; do
+    read  -e   -p "> " something
+            
+
+
+    if [[ $something == "" ]]; then
+
+	echo ""
+        
+	break
+    fi
+
+    ./image.sh $something
+done
