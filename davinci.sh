@@ -1,12 +1,6 @@
 #!/bin/bash
 
-##PUT YOUR OPENAI API KEY HERE IN key ##
-
-key=sk-*************************************
-
-## 
-
-
+key="YOUR OpenAI API KEY GOES HERE"
 
 
 prompt=$*
