@@ -2,6 +2,8 @@
 
 chmod +x davinci.sh
 chmod +x cmdline
+chmod +x image/image.sh
+chmod +x image/cmdline
 
 cd Web/Server
 npm install
