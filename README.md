@@ -10,9 +10,9 @@ Commandline and web app for interacting with OpenAI using OpenAI api
 
 Install the prerequisites.txt
 Get API key from OpenAI and place it in (davinci.sh) file and (image/image.sh) file
+The execute the following in terminal:
+  chmod +x start && ./start
 
-chmod +x start
-./start
  
 -->Then go to localhost:3000 in browser to access the chat window
 
